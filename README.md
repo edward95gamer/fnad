@@ -1,2 +1,2 @@
 # fnad
-a fnaf fangame for pacuscat os
+a fnaf fangame for pacuscat os and gptos
